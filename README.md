@@ -2,4 +2,4 @@
 
 Link video : 
 <br><br>
-Link website : https://franpratama.github.io/AR-js_3D/AR-superhero.html
+Link website : https://franpratama.github.io/AR-js_3D/ar.html
